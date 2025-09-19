@@ -6,8 +6,14 @@ Nutzung:
 
 Optionen:
   --key    Pfad zur CryptoKey-Datei (.key).        (Default: res://resources/encryption/key.key)
+  
   --vars   Pfad zur Variablen-Resource (.tres).    (Default: res://resources/encryption/vars/vars.tres)
+  
   --all    Alle Einträge ausgeben.
+  
   --name   Nur bestimmte Namen entschlüsseln (mehrfach nutzbar).
+  
   --json   Ausgabe als JSON.
+  
   --help   Diese Hilfe.
+  
